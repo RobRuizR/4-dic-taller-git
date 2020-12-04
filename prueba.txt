@@ -2,6 +2,3 @@ Versión 1
 
 Este es un cambio hecho por Roberto
 Este es un siguiente cambio.
-
-
-Pull request
